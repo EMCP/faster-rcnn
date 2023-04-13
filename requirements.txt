@@ -1,0 +1,15 @@
+torch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
+cython
+cffi
+opencv-python
+scipy
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
+imageio
+pycocotools
+git+ssh://git@gitlab.com/en-ser/ai-vision/faster-rcnn-private-pypi-libs.git@main#egg=faster_rcnn
