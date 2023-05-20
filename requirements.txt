@@ -12,4 +12,4 @@ pyyaml
 tensorboardX
 imageio
 pycocotools
-git+ssh://git@github.com:EMCP/faster-rcnn-private-pypi-libs.git@main#egg=faster_rcnn
+git+ssh://git@github.com/EMCP/faster-rcnn-private-pypi-libs.git@main#egg=faster_rcnn
